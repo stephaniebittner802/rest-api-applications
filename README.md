@@ -1,19 +1,11 @@
 # REST API Demos
 
-**REST API Demos** is a beginner-friendly repository created for a technical meeting for the Association for Computing Machinery for Women (ACM-W) to introduce members to **REST APIs**.
+**REST API Demos** is a beginner-friendly repository created for a technical meeting for the Association for Computing Machinery for Women (ACM-W) club at The University of Alabama to introduce members to **REST APIs**.
 
-The repository contains two simple projects that demonstrate how applications communicate with external services using **HTTP requests** and **JSON responses**.
+The repository contains two simple projects that demonstrate how applications communicate with external services using **HTTP requests** and **JSON responses**:
 
-
-# Demo Projects
-
-## Weather API Demo
-
-A simple frontend web app that retrieves weather information for a city using the **OpenWeatherMap API**.
-
-## OpenAI API Demo
-
-A small **Flask application** that sends prompts to the **OpenAI API** and displays the generated response in a webpage.
+* **Weather API Demo**: a simple frontend web app that retrieves weather information for a city using the **OpenWeatherMap API**.
+* **OpenAI API Demo**: a small **Flask application** that sends prompts to the **OpenAI API** and displays the generated response in a webpage.
 
 
 # Features
